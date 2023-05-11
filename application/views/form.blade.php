@@ -56,7 +56,7 @@
     </div>
   </main>
   <footer class="pt-5 my-5 text-body-secondary border-top">
-    Ujian Pemrograman Web 2023
+    Ujian Pemrograman Web 2023 Syahrul Oktario Farhan
   </footer>
 </div>
 </body>
